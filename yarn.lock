@@ -732,10 +732,10 @@ hexo-theme-ayer@^1.9.7-0:
   resolved "https://registry.npmmirror.com/hexo-theme-ayer/-/hexo-theme-ayer-1.9.7-0.tgz"
   integrity sha512-E25b6PufcYILxIkKd1W4+N3LMpVlVsNEvHCoxeBs5E2bjqF2M7yI1PPKFCf9/rMuwsMyRxRc3icbBt9tMb+Rfg==
 
-hexo-theme-fluid@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.0.tgz"
-  integrity sha512-kPIYtXhDMV3yJG2W63FnLY19gNHsHYHe8SXTMRoVfFtze9eAfXPzuU55ZD+6LIGpxYlS00Dinzdl/aG0JMQLgg==
+hexo-theme-fluid@^1.9.2:
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.2.tgz#1d4557d8e9f987c7c4737ccfc8b4e2555f3bf16d"
+  integrity sha512-utrmweqHYy0SA2dEd6bJuq0cJ1BiNA9xHl/NG9CmwLE2XYhaxktIsbodgBFx9M27I5jdiqlnOTr5Iav61Vi5Zg==
 
 hexo-theme-landscape@^0.0.3:
   version "0.0.3"
